@@ -1,16 +1,13 @@
-# cat_lovers
+# Cat_lovers
 
-an app for the cats lovers
+An app for the cats lovers
 
-## Getting Started
+<img src="./media/image.webp" >
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+Project for the study of Riverpod, MVVM and Clean Architecture in Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The web project is hosted at the following link.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://catlovers01.web.app">Abrir app en la web.</a>
